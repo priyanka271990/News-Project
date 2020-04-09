@@ -1,0 +1,10 @@
+section-bg-image {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.text-center {
+    text-align: center !important;
+}
